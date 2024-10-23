@@ -1,5 +1,8 @@
 # SPCPP
 
+## Appended results
+The appended visualized results are available in the PDFs above.
+
 ## Instances
 The problem instances are stored as .mat file, please download the instances using the google drive [link](https://drive.google.com/drive/folders/13HHR0MmQb7SUd1y2hFrowSQu0qfH60E8?usp=drive_link)
 
